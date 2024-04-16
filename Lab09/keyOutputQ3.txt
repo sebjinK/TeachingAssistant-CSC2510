@@ -1,0 +1,10 @@
+/usr
+/usr/libx32
+/usr/libx32/libnss_compat.so
+/usr/libx32/libasan.so.8.0.0
+/usr/libx32/libanl.so
+/usr/libx32/libBrokenLocale.so.1
+/usr/libx32/libpthread.so.0
+/usr/libx32/libasan.so.6.0.0
+/usr/libx32/libgcc_s.so.1
+/usr/libx32/ld.so

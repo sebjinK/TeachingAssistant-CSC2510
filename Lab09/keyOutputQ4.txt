@@ -1,0 +1,2 @@
+model name	: 13th Gen Intel(R) Core(TM) i5-1340P
+model name	: 13th Gen Intel(R) Core(TM) i5-1340P

@@ -1,0 +1,9 @@
+
+tea bag .20 0
+potato chips 0.50 80
+french fries 0.75 625
+rare hamburger 2.50 500
+apple pie 2.75 1500
+tuna salad .25 100
+milk shake 3 200
+crunchy taco 1.25 625

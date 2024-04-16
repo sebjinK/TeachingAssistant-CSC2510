@@ -1,0 +1,4 @@
+/usr/bin/tclsh
+/usr/bin/sh
+/usr/bin/rbash
+/usr/bin/wish
